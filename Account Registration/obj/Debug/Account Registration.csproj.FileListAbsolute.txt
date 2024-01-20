@@ -1,0 +1,23 @@
+C:\Users\Student\source\repos\Account Registration\obj\Debug\Account Registration.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Account Registration\obj\Debug\Account Registration.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\Account Registration\obj\Debug\Account_Registration.FrmConfirm.resources
+C:\Users\Student\source\repos\Account Registration\obj\Debug\Account_Registration.Properties.Resources.resources
+C:\Users\Student\source\repos\Account Registration\obj\Debug\Account Registration.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Account Registration\obj\Debug\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Account Registration\bin\Debug\Account Registration.exe.config
+C:\Users\Student\source\repos\Account Registration\bin\Debug\Account Registration.exe
+C:\Users\Student\source\repos\Account Registration\bin\Debug\Account Registration.pdb
+C:\Users\Student\source\repos\Account Registration\obj\Debug\Account_Registration.Form1.resources
+C:\Users\Student\source\repos\Account Registration\obj\Debug\Account Registration.exe
+C:\Users\Student\source\repos\Account Registration\obj\Debug\Account Registration.pdb
+C:\Users\Elmar\source\repos\Account Registration\bin\Debug\Account Registration.exe.config
+C:\Users\Elmar\source\repos\Account Registration\bin\Debug\Account Registration.exe
+C:\Users\Elmar\source\repos\Account Registration\bin\Debug\Account Registration.pdb
+C:\Users\Elmar\source\repos\Account Registration\obj\Debug\Account Registration.csproj.AssemblyReference.cache
+C:\Users\Elmar\source\repos\Account Registration\obj\Debug\Account_Registration.FrmConfirm.resources
+C:\Users\Elmar\source\repos\Account Registration\obj\Debug\Account_Registration.Form1.resources
+C:\Users\Elmar\source\repos\Account Registration\obj\Debug\Account_Registration.Properties.Resources.resources
+C:\Users\Elmar\source\repos\Account Registration\obj\Debug\Account Registration.csproj.GenerateResource.cache
+C:\Users\Elmar\source\repos\Account Registration\obj\Debug\Account Registration.csproj.CoreCompileInputs.cache
+C:\Users\Elmar\source\repos\Account Registration\obj\Debug\Account Registration.exe
+C:\Users\Elmar\source\repos\Account Registration\obj\Debug\Account Registration.pdb
